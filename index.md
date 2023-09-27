@@ -2,5 +2,5 @@
 # About Me
 I am planning on going to Georgia Tech for an MS in Computer Science with a specialization in Machine Learning. I have a service dog named Scarlett. I love cooking, singing, and ice skating!
 
-# MAT434 TidyVerse
+# MAT434 Tidy Analysis
 https://florencelourdes.github.io/MAT434/DataWrangling.qmd
