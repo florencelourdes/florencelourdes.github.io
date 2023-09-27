@@ -4,3 +4,4 @@ I am planning on going to Georgia Tech for an MS in Computer Science with a spec
 
 # MAT434 Tidy Analysis
 https://florencelourdes.github.io/MAT434/DataWrangling.qmd
+https://github.com/florencelourdes/MAT434/blob/bc40ea2c93e895f9098baac95acf90510ca7e61e/DataWrangling.qmd
